@@ -12,3 +12,6 @@ Completed studying about dictionaries and sets. Solved few problems of dictionar
 https://github.com/SpayL/Python-practice/tree/master/sets  
 https://github.com/SpayL/Python-practice/tree/master/dictionaries
 
+**Day 3: 10 April,2020**
+Learned about list comprehension which is really cool as it decreases the length of code way too much . Started to solve questions on hackerrank.
+
