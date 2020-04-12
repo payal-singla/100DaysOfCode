@@ -14,6 +14,7 @@ https://github.com/SpayL/Python-practice/tree/master/dictionaries
 
 **Day 3: 10 April,2020**
 Learned about list comprehension which is really cool as it decreases the length of code way too much . Started to solve questions on hackerrank.
+https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=python
 
 **Day 4: 11 April,2020**
 Learned about what is data science? And got my 4th star in hackerrank in python by completing problems of lists. 
