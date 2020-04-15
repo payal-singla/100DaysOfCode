@@ -18,3 +18,10 @@ https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=unsolved&bad
 
 **Day 4: 11 April,2020**
 Learned about what is data science? And got my 4th star in hackerrank in python by completing problems of lists. 
+
+### Day 6: April 13,2020
+
+**Today's Progress**:Learned about advanced python functions and practiced problems about the same . I'll push the codes to the github tommorow because of internet issuses.
+
+
+
