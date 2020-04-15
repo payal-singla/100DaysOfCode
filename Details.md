@@ -23,5 +23,7 @@ Learned about what is data science? And got my 4th star in hackerrank in python 
 
 **Today's Progress**:Learned about advanced python functions and practiced problems about the same . I'll push the codes to the github tommorow because of internet issuses.
 
+### Day 7: April 14,2020
 
+**Today's Progress**: Learning a new domain of web development. Earlier i completed html5 and today i studied CSS. 
 
