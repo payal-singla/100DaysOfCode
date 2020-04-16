@@ -31,6 +31,11 @@ Learned about what is data science? And got my 4th star in hackerrank in python 
 
 **Today's Progress**:Studies about generators and generator comprehension in python
 
+### Day 9: April 16,2020
+
+**Today's Progress**:Studied about error and debugging in python .Running a bit behind the schedule hope to cope up soon.
+
+
 
 
 
