@@ -39,6 +39,10 @@ Learned about what is data science? And got my 4th star in hackerrank in python 
 
 **Today's Progress**: Solved problems on hackerrank and started 30 days of code challenge on hackerrank.
 
+### Day 11: April 18,2020
+
+**Today's Progress**: Practiced problems on hackerrank and from geeks for geeks to be efficent in python.
+
 
 
 
