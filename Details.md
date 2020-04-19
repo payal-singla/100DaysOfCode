@@ -35,7 +35,9 @@ Learned about what is data science? And got my 4th star in hackerrank in python 
 
 **Today's Progress**:Studied about error and debugging in python .Running a bit behind the schedule hope to cope up soon.
 
+### Day 10: April 17,2020
 
+**Today's Progress**: Solved problems on hackerrank and started 30 days of code challenge on hackerrank.
 
 
 
