@@ -43,6 +43,14 @@ Learned about what is data science? And got my 4th star in hackerrank in python 
 
 **Today's Progress**: Practiced problems on hackerrank and from geeks for geeks to be efficent in python.
 
+### Day 12: April 19,2020
+
+**Today's Progress**: Started to learn java and kept python on pause for a lil.
+
+
+
+
+
 
 
 
