@@ -51,6 +51,11 @@ Learned about what is data science? And got my 4th star in hackerrank in python 
 
 **Today's Progress**: Learned how to make java projects in eclpise IDE .
 
+### Day 14: April 21,2020
+
+**Today's Progress**: Started a project on java for graded submission.
+
+
 
 
 
