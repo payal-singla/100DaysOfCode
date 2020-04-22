@@ -55,6 +55,10 @@ Learned about what is data science? And got my 4th star in hackerrank in python 
 
 **Today's Progress**: Started a project on java for graded submission.
 
+### Day 15: April 22,2020
+
+**Today's Progress**:Revised concepts on continous delivery  and devops and earned a certificate in that.
+
 
 
 
