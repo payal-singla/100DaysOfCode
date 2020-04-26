@@ -67,6 +67,18 @@ Learned about what is data science? And got my 4th star in hackerrank in python 
 
 **Today's Progress**:
 
+### Day 18: April 25,2020
+
+**Today's Progress**:
+
+### Day 19: April 26,2020
+
+**Today's Progress**:
+
+### Day 20: April 27,2020
+
+**Today's Progress**:
+
 
 
 
