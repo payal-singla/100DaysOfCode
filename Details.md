@@ -79,6 +79,10 @@ Learned about what is data science? And got my 4th star in hackerrank in python 
 
 **Today's Progress**:
 
+### Day 21: April 28,2020
+
+**Today's Progress**: Completed with HTML% course and looking for learning and refreshing concepts of CSS.
+
 
 
 
